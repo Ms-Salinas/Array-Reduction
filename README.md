@@ -24,11 +24,12 @@ The loop stops when the pq has a single value
 ```
 
 Sample Output :
+```
 0
 85
 9
 947
 12
 2
-
+```
 
