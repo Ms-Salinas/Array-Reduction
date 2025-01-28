@@ -23,7 +23,7 @@ The loop stops when the pq has a single value
 1,1
 ```
 
-Sample Output :
+## Sample Output :
 ```
 0
 85
